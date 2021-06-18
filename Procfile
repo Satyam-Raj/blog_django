@@ -1,0 +1,1 @@
+web: gunicorn yup.wsgi --log-file -
